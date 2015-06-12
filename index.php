@@ -1,3 +1,3 @@
 <?php
-TEst 1
+echo "Is Test";
 ?>
